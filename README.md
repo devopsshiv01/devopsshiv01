@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm shiva goud balamoni</h1>
 <h3 align="center">AWS DevOps Engineer @ T MOBILE | Hybrid Cloud Architect, AWS Solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devopsshiv01" alt="devopsshiv01" /></a> </p>
 
 - 📫 How to reach me **devopstechconsult@proton.me**
 
