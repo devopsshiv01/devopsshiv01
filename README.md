@@ -2,7 +2,7 @@
 <h3 align="center">AWS DevOps Engineer @ T MOBILE | Hybrid Cloud Architect, AWS Solutions</h3>
 
 
-- 📫 How to reach me **devopstechconsult@proton.me**
+- 📫 How to reach me **shiva.goud.balamoni.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
